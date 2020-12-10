@@ -10,9 +10,9 @@ Para poder usar el BFF de forma local es necesario tener las siguientes dependen
 - offers-service    ( puerto 8080  )
 
 Luego de tener las dependencias arriba es necesario ejecutar el siguiente comando:
-
+```sh
 npm install && npm start
-
+```
 Lo anterior levantará el BFF en el puerto 3000
 
 
